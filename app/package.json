@@ -1,0 +1,1 @@
+{"description":"BateyOS — plataforma de operaciones de rotación (turnover) para alquileres de corta estadía. Node 24, cero dependencias.","engines":{"node":">=22.5"},"name":"bateyos","private":true,"scripts":{"start":"node server.js"},"type":"module","version":"0.1.0"}
